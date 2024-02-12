@@ -1,2 +1,2 @@
-# Titanic-Project
-Python code for Machine Learning problem "Titanic".
+# Myntra-clone 
+Javascript code for a basic website functioning like myntra built using React.
